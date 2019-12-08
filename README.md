@@ -22,7 +22,7 @@ A simple app called 'Color Name' was built using REACT Native to demonstrate som
 * Android studio has activity and xml files at separate locations. The activity files define the function of the modules while the xml files specify the style. However, REACT can write the function and style in the same file. This could be an advantage or a disadvantage to REACT. It makes the building process easier but at the same time, it is not as organized as Android studio when the app is getting more complicated.
 
 Android studio
-![as](android_studio.jpg)
+![as](android_studio.PNG)
 
 REACT Native
-![as](REACT.jpg)
+![as](REACT.PNG)
