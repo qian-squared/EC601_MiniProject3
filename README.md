@@ -1,11 +1,15 @@
-# Sample Snack app
+# EC601_MiniProject3
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+For the class project, our team has successfully built an android app using the Android studio. Therefore, I would like to investigate in REACT Native and to compare the differences between using REACT Native and Android studio for building android apps. 
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
+##  REACT Native
+React Native is an open-source mobile application framework created by Facebook. It can be used to develop applications for Android, iOS, and Web. It uses native components instead of web components as building blocks. By following the instruction on https://facebook.github.io/react-native/docs/tutorial, a simple app is built and run on an Android device.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
+## A Simple App 
+A simple app called 'Color Name' was built using REACT Native to demonstrate some of its features. The app helps the user to identify the names of some colors under a more general class (in this case blue). Therefore, the user can use Pantone to find out the names of the colors they see in life. The app utilizes the components including view, TouchableOpacity, on click call back function, alert box, and scroll view, and also explores different props and styles. Here are some screenshots by using the app:
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
+## REACT Native VS Android studio
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+* The Snack platform provides an easy way for developers to build simple apps. One can just use web browsers to write code and it allows you to have a real-time visualization of your app. Unlike using Android studio, the developers can not have immediate feedback without using a virtual machine. 
+* REACT Native provides easier ways to test the app on your devices. You can just download the expo app on the phone to run the app you built wirelessly. For the Android studio, you have to connect the device to the computer to run the app.
+* Android studio has activity and xml files at separate locations. The activity files define the function of the modules while the xml files specify the style. However, REACT can write the function and style in the same file. This could be an advantage or a disadvantage to REACT. It makes the building process easier but at the same time, it is not as organized as Android studio when the app is getting more complicated.
