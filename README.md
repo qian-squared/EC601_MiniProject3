@@ -20,3 +20,9 @@ A simple app called 'Color Name' was built using REACT Native to demonstrate som
 * The Snack platform provides an easy way for developers to build simple apps. One can just use web browsers to write code and it allows you to have a real-time visualization of your app. Unlike using Android studio, the developers can not have immediate feedback without using a virtual machine. 
 * REACT Native provides easier ways to test the app on your devices. You can just download the expo app on the phone to run the app you built wirelessly. For the Android studio, you have to connect the device to the computer to run the app.
 * Android studio has activity and xml files at separate locations. The activity files define the function of the modules while the xml files specify the style. However, REACT can write the function and style in the same file. This could be an advantage or a disadvantage to REACT. It makes the building process easier but at the same time, it is not as organized as Android studio when the app is getting more complicated.
+
+Android studio
+![as](android_studio.jpg)
+
+REACT Native
+![as](REACT.jpg)
