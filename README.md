@@ -7,7 +7,9 @@ React Native is an open-source mobile application framework created by Facebook.
 
 ## A Simple App 
 A simple app called 'Color Name' was built using REACT Native to demonstrate some of its features. The app helps the user to identify the names of some colors under a more general class (in this case blue). Therefore, the user can use Pantone to find out the names of the colors they see in life. The app utilizes the components including view, TouchableOpacity, on click call back function, alert box, and scroll view, and also explores different props and styles. Here are some screenshots by using the app:
-![01](app_01.png)
+![01](app_01.jpg)
+![02](app_02.jpg)
+![03](app_03.jpg)
 
 ## REACT Native VS Android studio
 
